@@ -18,4 +18,4 @@ Going into ICS 111, I did not know any programming languages. While I was famili
 
 This project allowed me to practice coding in my very first programming language: Java. It also gave me lots of practice using the Eclipse program. I really enjoyed this project as it is the first ever game I created. I spent a lot of time on the creative aspect of the game. I added custom images and sounds in order to make the game as silly as possible. However in doing so, I learned a lot about Java. For example, the character model having an iregular shape resulted in me learning how to create a custom hitbox.
  
-Source: <https://www.youtube.com/watch?v=UwVbYaythxk> 
+Gameplay: <https://www.youtube.com/watch?v=UwVbYaythxk> 
