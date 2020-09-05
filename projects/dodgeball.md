@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/dodgeball.PNG
 title: Dodgeball
-permalink: projects/Dodgeball
+permalink: projects/dodgeball
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-17
 labels:
