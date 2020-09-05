@@ -14,10 +14,9 @@ summary: Expanded upon the idea of the "Dodgeball" to create a more difficult ve
 
 <img class="ui medium right floated rounded image" src="../images/mlg.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This program is an expansion of my first Java program "Dodgeball". While the overall objective of dodging items on screen remain the same, there is an extra layer of difficulty.
+In addition to doding elements on screen, you have two depleting health bars. Certain elements on screen must also be collected in order to stay alive.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Like my previous project "Dodgeball", I really enjoyed creating this program. This project really tested my understanding of conditional statements and loops. I spent a lot of time fixing bugs in this game. Health bars were not updating properly, game ending events were not triggering when they were supposed to, hit boxes were not registering, and game elements were not appearing as intended. 
  
-Source: <https://www.youtube.com/watch?v=bkI2nx1bYWE> 
+Gameplay: <https://www.youtube.com/watch?v=bkI2nx1bYWE> 
