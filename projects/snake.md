@@ -20,5 +20,5 @@ Our approach to creating the game snake was to have each pixel represent a eleme
 
 I enjoyed working on this project because snake is such a classic and iconic game. Using all of the knowledge I learned in ICS 111 I was able to recreate a game I was familiar playing.
  
-Source: <https://www.youtube.com/watch?v=T9N8dJpyW7g> 
+Gameplay: <https://www.youtube.com/watch?v=T9N8dJpyW7g> 
 
