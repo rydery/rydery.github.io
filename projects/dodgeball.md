@@ -9,15 +9,13 @@ date: 2018-09-17
 labels:
   - Java
   - ICS 111
-summary: A dodgeball game I created using Java in my ICS 111 class.
+summary: The very first progamming project I worked on as an ICS 111 student. A dodgeball game where the player must dodge all balls using WASD keys.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/dodgeball2.PNG">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Going into ICS 111, I did not know any programming languages. While I was familiar with basic programming concepts such as: if-then statements, loops, and assignments, I had no experience with a formal programming language. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project allowed me to practice coding in my very first programming language: Java. It also gave me lots of practice using the Eclipse program. I really enjoyed this project as it is the first ever game I created. I spent a lot of time on the creative aspect of the game. I added custom images and sounds in order to make the game as silly as possible. However in doing so, I learned a lot about Java. For example, the character model having an iregular shape resulted in me learning how to create a custom hitbox.
  
 Source: <https://www.youtube.com/watch?v=UwVbYaythxk> 
