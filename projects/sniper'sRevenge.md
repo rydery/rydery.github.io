@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/dodgeball.PNG
+image: images/mlgsquare.png
 title: Sniper's Revenge
 permalink: projects/snipers_revenge
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ labels:
 summary: Expanded upon the idea of the "Dodgeball" to create a more difficult version. Created for my ICS 111 class.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/dodgeball2.PNG">
+<img class="ui medium right floated rounded image" src="../images/mlg.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
