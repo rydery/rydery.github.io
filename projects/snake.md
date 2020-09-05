@@ -9,16 +9,14 @@ date: 2018-11-27
 labels:
   - Java
   - ICS 111
-summary: A snake game developed for my ICS 111 class
+summary: A snake game developed for my ICS 111 class as part of a group project
 ---
 
 <img class="ui medium right floated rounded image" src="../images/snake.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+For my final ICS 111 Project, I developed a version of the game snake alongside my partner Fara. The purpose of this project was to test our understanding of 2D arrays and finite state machines. Our approach to creating the game snake was to have each pixel represent a element in a 2D array. Each pixel could then habe different colors or states. black represented empty space, green represented the snakes body, and red represented an apple. From there we used loops and conditional statements to refresh the screen and trigger actions.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+I enjoyed working on this project because snake is such a classic and iconic game. Using all of the knowledge I learned in ICS 111 I was able to recreate a game I was familiar playing.
  
 Source: <https://www.youtube.com/watch?v=T9N8dJpyW7g> 
 
