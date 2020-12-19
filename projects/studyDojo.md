@@ -19,7 +19,7 @@ labels:
 summary: Final project created in my junior year as a ICS 314 student at UH Manoa. Web Application for ICS students at UH Manoa to arrange study sessions.
 ---
 
-<img class="ui large center rounded image" src="../images/home-page.png">
+<img class="ui large fluid rounded image" src="../images/home-page.png">
 
 Going into ICS 111, I did not know any programming languages. While I was familiar with basic programming concepts such as: if-then statements, loops, and assignments, I had no experience with a formal programming language. My previous experiences in programming mainly involved visual languages where you click and drag blocks of code. These programs, such as "Scratch" and "EasyC" are generally intended to ease younger audiences into a programming language and concepts.
 
