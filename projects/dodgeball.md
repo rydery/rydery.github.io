@@ -12,7 +12,7 @@ labels:
 summary: The very first progamming project I worked on in my freshman year as an ICS 111 student at UH Manoa. A dodgeball game where the player must dodge all balls using WASD keys.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/dodgeball2.PNG">
+<img class="ui image" src="../images/dodgeball2.PNG">
 
 Going into ICS 111, I did not know any programming languages. While I was familiar with basic programming concepts such as: if-then statements, loops, and assignments, I had no experience with a formal programming language. My previous experiences in programming mainly involved visual languages where you click and drag blocks of code. These programs, such as "Scratch" and "EasyC" are generally intended to ease younger audiences into a programming language and concepts.
 
