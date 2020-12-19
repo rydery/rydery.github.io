@@ -9,7 +9,7 @@ date: 2018-11-27
 labels:
   - Java
   - ICS 111
-summary: A snake game developed for my ICS 111 class as part of a group project
+summary: A snake game developed for my final project in ICS 111 at UH Manoa.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/snake.png">
