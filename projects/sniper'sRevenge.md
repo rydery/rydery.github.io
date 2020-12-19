@@ -12,7 +12,7 @@ labels:
 summary: A Java game I developed for my ICS 111 class as a freshman at UH Manoa. This project built upon my previous project "Dodgeball" implementing more features.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/mlg.png">
+<img class="ui image" src="../images/mlg.png">
 
 This program is an expansion of my first Java program "Dodgeball". While the overall objective of dodging items on screen remain the same, there is an extra layer of difficulty.
 In addition to doding elements on screen, you have two depleting health bars. Certain elements on screen must be collected in order to refill your heath bars and stay alive.
