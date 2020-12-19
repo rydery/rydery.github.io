@@ -9,7 +9,7 @@ date: 2018-09-17
 labels:
   - Java
   - ICS 111
-summary: The very first progamming project I worked on in my freshman year as an ICS 111 student at UH Manoa. A dodgeball game where the player must dodge all balls using WASD keys.
+summary: The very first programming project I worked on in my freshman year as an ICS 111 student at UH Manoa. A dodgeball game where the player must dodge all balls using WASD keys.
 ---
 
 <img class="ui image" src="../images/dodgeball2.PNG">
