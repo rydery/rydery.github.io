@@ -12,7 +12,7 @@ labels:
 summary: A snake game developed for my final project in ICS 111 at UH Manoa.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/snake.png">
+<img class="ui image" src="../images/snake.png">
 
 For my final ICS 111 Project, I developed a version of the game snake alongside my partner Fara. The purpose of this project was to test our understanding of 2D arrays and finite state machines. 
 
