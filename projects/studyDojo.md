@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/home-page.png
+image: images/home-page (2).png
 title: Study Dojo
 permalink: projects/study-dojo
 # All dates must be YYYY-MM-DD format!
