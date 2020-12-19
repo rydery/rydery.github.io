@@ -73,6 +73,15 @@
   ],
   "education": [
     {
+      "institution": "Waipahu High School",
+      "area": "Class of 2018",
+      "studyType": "",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "4.0",
+      "courses": [
+      ],
+      
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
@@ -101,7 +110,7 @@
       "organization": "Na Maka O Pu`uwai Aloha",
       "website": "https://namakastudio.org",
       "position": "Performer/Volunteer",
-      "startDate": "2005-01-01",
+      "startDate": "2005",
       "endDate": "Present",
       "summary": "Hula and Performing Arts Studio",
       "highlights": [
