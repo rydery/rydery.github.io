@@ -29,21 +29,24 @@
   },
   "interests": [
 
-    {
-      "name": "Software Engineering",
+     {
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
+    
     {
       "name": "Gamification",
       "keywords": [
       ]
     },
-    {
-      "name": "Artificial Intelligence",
+    
+     {
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
+   
   ],
   "skills": [
     {
@@ -53,7 +56,9 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Meteor",
+        "Semantic UI React"
       ]
     },
     {
@@ -87,20 +92,21 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Provide after-school care"
+        "Provide after-school child care"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Na Maka O Pu`uwai Aloha",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Volunteer",
-      "startDate": "2016-01-01",
+      "website": "https://namakastudio.org",
+      "position": "Performer/Volunteer",
+      "startDate": "2005-01-01",
       "endDate": "Present",
       "summary": "Hula and Performing Arts Studio",
       "highlights": [
-        "Assist in teaching boys hula"
+        "Hula Performer",
+        "Teach and assist boys hula"
       ]
     }
   ],
