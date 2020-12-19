@@ -9,7 +9,7 @@ date: 2018-10-26
 labels:
   - Java
   - ICS 111
-summary: Expanded upon the idea of the "Dodgeball" to create a more difficult version. Created for my ICS 111 class.
+summary: A Java game I developed for my ICS 111 class as a freshman at UH Manoa. This project built upon my previous project "Dodgeball" implementing more features.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/mlg.png">
