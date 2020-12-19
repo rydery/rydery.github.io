@@ -55,10 +55,13 @@
       "keywords": [
         "C",
         "C++",
+        "HTML/CSS",
         "Java",
         "Javascript",
         "Meteor",
-        "Semantic UI React"
+        "MongoDB",
+        "React.js",
+        "Semantic UI"
       ]
     },
     {
@@ -67,27 +70,29 @@
       "keywords": [
         "MacOS",
         "Windows 10",
-        "Git/GitHub"
+        "Git/GitHub",
+        "IntelliJ IDEA",
+        "Unix"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Waipahu High School",
-      "area": "Class of 2018",
-      "studyType": "",
-      "startDate": "2014",
-      "endDate": "2018",
-      "gpa": "4.0",
-      "courses": [
-      ],
-      
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-08-01",
       "endDate": "Present",
       "gpa": "",
+      "courses": [
+      ],
+      
+      "institution": "Waipahu High School",
+      "area": "Class of 2018",
+      "studyType": "",
+      "startDate": "2014",
+      "endDate": "2018",
+      "gpa": "4.0",
       "courses": [
       ]
     }
