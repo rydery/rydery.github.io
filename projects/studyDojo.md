@@ -16,7 +16,7 @@ labels:
   - MongoDB
   - Github
   - ICS 314
-summary: Final project created in my junior year as a ICS 314 student at UH Manoa. Web Application for ICS students at UH Manoa to arrange study sessions.
+summary: Final project created in my junior year as an ICS 314 student at UH Manoa. Web Application for ICS students at UH Manoa to arrange study sessions.
 ---
 
 <img class="ui image" src="../images/home-page.png">
